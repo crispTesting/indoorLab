@@ -1,0 +1,17 @@
+
+Car   - - - - Guide
+*******************
+Svart - - - - Hvit
+Gul   - - - - Gul
+Rød   - - - - Blå
+
+
+VESC - - - - Car
+
+A -> White
+B-> Yellow
+C -> Blue
+
+
+After flash of firmware on VESC. If the vehicle runs backwards to expected
+motion. Simply swap the white (black) wire to C and the blue (red) wire to A.
